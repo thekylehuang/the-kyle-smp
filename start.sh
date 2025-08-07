@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -Xms4G -Xmx4G -jar paper.jar nogui
+java -Xms8G -Xmx8G -jar paper.jar nogui
